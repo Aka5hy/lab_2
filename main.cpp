@@ -14,10 +14,8 @@ int main()
 	cin >> A;
 	cin >> B;
 
-	int sum;
-	sum = A + B;
-
-	cout << endl << sum;
+	cout << "A + B = " << A + B << endl
+		 << "A - B = " << A - B << endl;
 
 	return 1;
 }
