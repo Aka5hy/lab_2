@@ -14,5 +14,10 @@ int main()
 	cin >> A;
 	cin >> B;
 
+	int sum;
+	sum = A + B;
+
+	cout << endl << sum;
+
 	return 1;
 }
